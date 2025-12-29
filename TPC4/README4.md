@@ -1,5 +1,4 @@
 # Relatório do TPC4
-## Data: 2025-10-10
 ## Autor: Bianca de Araújo Pereira
 
 ## Resumo

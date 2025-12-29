@@ -1,0 +1,16 @@
+# Relatório do TPC7
+## Autor: Bianca de Araújo Pereira
+
+## Resumo
+O TPC7 consistiu na criação de uma aplicação de meteorologia com as seguintes opções:
+(0) Criar uma tabela metereológica;
+(1) Calcular média das temperaturas máxima e mínima;
+(2) Guardar a tabela em ficheiro;
+(3) Carregar tabela de um ficheiro;
+(4) Consultar a temperatura mínima mais baixa;
+(5) Calcular a amplitude das temperaturas diárias;
+(6) Consultar a precipitação máxima;
+(7) Consultar os dias com precipitação superior a x;
+(8) Consultar o número de dias consecutivos em que a precipitação teve valores inferiores a x;
+(9) Criar um gráfico com temperetauras máxima, mínima e pluviosidade;
+(10) Sair

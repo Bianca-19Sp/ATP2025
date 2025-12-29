@@ -1,4 +1,4 @@
-#TPC2 - Jogo dos 21 Fósforos7
+#TPC2 - Jogo dos 21 Fósforos
 
 def menu():
     print('-='*20)

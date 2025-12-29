@@ -1,5 +1,4 @@
 # Relatório do TPC3
-## Data: 2024-10-02
 ## Autor: Bianca de Araújo Pereira
 
 ## Resumo
